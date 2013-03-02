@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "rafe", 
+      "first_name": "", 
+      "last_name": "", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2013-03-01T23:33:10.263Z", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "pbkdf2_sha256$10000$lidZKSd1arDU$MY7A97XB6RnMH+pede5Dp7EUpyGNeBEWFKSzPNhXFbw=", 
+      "email": "rafe@suite101.com", 
+      "date_joined": "2013-03-01T23:32:26.395Z"
+    }
+  }
+]
